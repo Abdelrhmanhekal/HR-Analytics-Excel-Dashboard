@@ -1,7 +1,5 @@
 # 📊 HR Analytics Excel Dashboard
 
-![Dashboard](images/Dashboard)
-
 ## 📌 Project Overview
 
 This project presents an interactive **HR Analytics Dashboard** developed using **Microsoft Excel** and **Power Query**. The dashboard helps HR teams monitor workforce performance, employee attrition, salary trends, engagement, and other key HR metrics through interactive visualizations and dynamic filters.
