@@ -72,7 +72,7 @@ The dashboard enables HR managers to:
 
 ---
 
-![Dashboard](images/Dashboard)
+![Dashboard](Dashboard.png)
 
 ---
 
