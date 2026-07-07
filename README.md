@@ -74,10 +74,6 @@ The dashboard enables HR managers to:
 
 ---
 
-## 📷 Dashboard Preview
-
-### HR Dashboard
-
 ![Dashboard](images/Dashboard.png)
 
 ---
