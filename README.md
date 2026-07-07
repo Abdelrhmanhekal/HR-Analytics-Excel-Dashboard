@@ -1,6 +1,6 @@
 # 📊 HR Analytics Excel Dashboard
 
-![Dashboard](images/Dashboard.png)
+![Dashboard](images/Dashboard)
 
 ## 📌 Project Overview
 
@@ -74,7 +74,7 @@ The dashboard enables HR managers to:
 
 ---
 
-![Dashboard](images/Dashboard.png)
+![Dashboard](images/Dashboard)
 
 ---
 
